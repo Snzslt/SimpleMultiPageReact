@@ -1,0 +1,8 @@
+.home .card{
+    background-color:rgba(196, 223, 243, 0.41) ;
+    padding: 20px;
+    border: 1px solid #e4e4e4;
+    border-radius: 4px;
+    box-shadow:4px 4px 6px rgba(0,0,0,0.05);
+    margin-bottom: 20px;
+}
